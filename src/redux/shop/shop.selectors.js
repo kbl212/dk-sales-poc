@@ -4,7 +4,7 @@ const selectShop = state => state.shop;
 
 export const selectCollections = createSelector(
   [selectShop],
-  shop => shop.shopItems
+  shop => shop.collections
 );
 
 export const selectCollectionsForPreview = createSelector(
