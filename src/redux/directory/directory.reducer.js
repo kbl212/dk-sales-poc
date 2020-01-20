@@ -19,14 +19,14 @@ const INITIAL_STATE = {
   },
   {
     title: 'womens',
-    imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
+    imageUrl: 'https://images.pexels.com/photos/291762/pexels-photo-291762.jpeg?auto=compress',
     size: 'large',
     id: 4,
     linkUrl: 'shop/womens'
   },
   {
     title: 'mens',
-    imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
+    imageUrl: 'https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress',
     size: 'large',
     id: 5,
     linkUrl: 'shop/mens'
